@@ -40,6 +40,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Install and configure typescript on Next.js
 - [Next.js Docs](https://nextjs.org/docs/basic-features/typescript)
+
 Change strict mode to true
 
 ## Install and Configure .editorconfig 
@@ -57,4 +58,9 @@ run npx eslint --init
 - [Install Prettier](https://prettier.io/)
 - [Prettier ESLint Plugin](https://github.com/prettier/eslint-plugin-prettier)
 - [Prettier ESLint Config](https://github.com/prettier/eslint-config-prettier#installation)
-Config vscode settings to enable eslint format with prettier
+
+Config vscode settings to enable eslint format with 
+
+## Install and Configure Husky and Lint-Staged
+- [Husky Docs](https://typicode.github.io/husky/#/)
+- [Lint-Staged Docs](https://github.com/okonet/lint-staged)
