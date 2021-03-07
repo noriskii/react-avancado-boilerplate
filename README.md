@@ -64,3 +64,9 @@ Config vscode settings to enable eslint format with
 ## Install and Configure Husky and Lint-Staged
 - [Husky Docs](https://typicode.github.io/husky/#/)
 - [Lint-Staged Docs](https://github.com/okonet/lint-staged)
+
+## Install and Configure Jest
+- [Jest Site](https://jestjs.io/)
+- [Jest Docs](https://jestjs.io/docs/en/getting-started)
+
+Look for Jest Configuration commit
