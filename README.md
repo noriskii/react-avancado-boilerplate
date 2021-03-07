@@ -70,3 +70,7 @@ Config vscode settings to enable eslint format with
 - [Jest Docs](https://jestjs.io/docs/en/getting-started)
 
 Look for Jest Configuration commit
+
+## Install and Configure RTL (React Testing Library)
+- [RTL Docs](https://testing-library.com/docs/react-testing-library/intro/)
+- [RTL Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
