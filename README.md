@@ -74,3 +74,14 @@ Look for Jest Configuration commit
 ## Install and Configure RTL (React Testing Library)
 - [RTL Docs](https://testing-library.com/docs/react-testing-library/intro/)
 - [RTL Cheatsheet](https://testing-library.com/docs/react-testing-library/cheatsheet/)
+
+## Install and Configure Styles-Components
+- [SC Docs](https://styled-components.com/)
+- [SC Docs SSR Babel](https://styled-components.com/docs/tooling#babel-plugin)
+- [SC Docs Typescript](https://styled-components.com/docs/api#typescript)
+- [Next Custom Document](https://nextjs.org/docs/advanced-features/custom-document)
+- [_document code](https://github.com/vercel/next.js/blob/master/examples/with-styled-components/pages/_document.js)
+- [SC Docs Create GlobalStyles](https://styled-components.com/docs/api#createglobalstyle) 
+- [Next Custom app](https://nextjs.org/docs/basic-features/typescript#custom-app) 
+- [Next Custom paths](https://nextjs.org/docs/advanced-features/module-path-aliases) 
+- []() 
