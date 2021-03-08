@@ -84,4 +84,4 @@ Look for Jest Configuration commit
 - [SC Docs Create GlobalStyles](https://styled-components.com/docs/api#createglobalstyle) 
 - [Next Custom app](https://nextjs.org/docs/basic-features/typescript#custom-app) 
 - [Next Custom paths](https://nextjs.org/docs/advanced-features/module-path-aliases) 
-- []() 
+- [Jest Styled Components Integration](https://styled-components.com/docs/tooling#jest-integration) 
