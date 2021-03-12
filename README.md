@@ -102,3 +102,8 @@ Look for Jest Configuration commit
 ## Install and Configure dependabot + github actions
 - [Dependabot for dependency check](https://dependabot.com/)
 - [Github Actions for CI](https://docs.github.com/en/actions)
+
+## Install and Configure PLOP (file and folder generator)
+- [PLOP Site](https://plopjs.com/)
+- [PLOP Docs](https://plopjs.com/documentation/#getting-started)
+- [PLOP Case Modifiers](https://plopjs.com/documentation/#case-modifiers)
