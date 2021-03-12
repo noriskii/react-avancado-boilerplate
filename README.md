@@ -98,3 +98,7 @@ Look for Jest Configuration commit
 
 ## Install and Configure PWA
 - [Next-PWA Docs](https://www.npmjs.com/package/next-pwa)
+
+## Install and Configure dependabot + github actions
+- [Dependabot for dependency check](https://dependabot.com/)
+- [Github Actions for CI](https://docs.github.com/en/actions)
