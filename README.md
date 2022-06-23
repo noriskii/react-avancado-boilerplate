@@ -32,3 +32,35 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Conteudos Utilizados na configuração deste Boilerplate
+
+### WSL
+- https://www.youtube.com/playlist?list=PLlAbYrWSYTiOpefWtd6uvwgKT1R-94Zfd
+
+### Nextjs
+- https://github.com/vercel/next.js/tree/canary/examples
+- https://nextjs.org/docs/getting-started
+- https://nextjs.org
+
+### Typescript
+- https://nextjs.org/docs/basic-features/typescript
+- https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_
+
+### Editorconfig + ESLINT + Prettier
+- https://editorconfig.org
+- https://eslint.org
+- https://www.npmjs.com/package/eslint-plugin-react-hooks
+- https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/prop-types.md
+- https://github.com/jsx-eslint/eslint-plugin-react/blob/master/docs/rules/react-in-jsx-scope.md
+- https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/docs/rules/explicit-module-boundary-types.md
+- https://github.com/prettier/eslint-plugin-prettier
+
+### X
+- X
+
+### X
+- X
+
+### X
+- X
