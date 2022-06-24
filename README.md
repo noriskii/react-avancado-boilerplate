@@ -56,11 +56,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/docs/rules/explicit-module-boundary-types.md
 - https://github.com/prettier/eslint-plugin-prettier
 
-### X
-- X
+### Husky + lint-staged
+- https://github.com/typicode/husky
+- https://typicode.github.io/husky/#/
+- https://github.com/okonet/lint-staged
 
-### X
-- X
+### Jest + Testing Library
+- https://jestjs.io/docs/getting-started
+- https://jestjs.io/docs/getting-started#using-typescript
+- https://www.npmjs.com/package/jest-environment-jsdom
+- 
 
 ### X
 - X
