@@ -65,7 +65,41 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://jestjs.io/docs/getting-started
 - https://jestjs.io/docs/getting-started#using-typescript
 - https://www.npmjs.com/package/jest-environment-jsdom
-- 
+- https://testing-library.com/docs/react-testing-library/intro/
+- https://testing-library.com/docs/react-testing-library/cheatsheet/
+- https://jestjs.io/docs/cli#--findrelatedtests-spaceseparatedlistofsourcefiles
 
-### X
-- X
+### Styled Components
+- https://styled-components.com
+- https://styled-components.com/docs/tooling?#typescript-plugin
+- https://styled-components.com/docs/tooling#babel-plugin
+- https://styled-components.com/docs/basics#installation
+- https://styled-components.com/docs/advanced#nextjs
+- https://github.com/vercel/next.js/blob/canary/examples/with-styled-components-babel/pages/_document.tsx
+- https://nextjs.org/docs/advanced-features/custom-document
+- https://styled-components.com/docs/api#createglobalstyle
+- https://nextjs.org/docs/advanced-features/module-path-aliases
+- https://nextjs.org/docs/basic-features/typescript#custom-app
+- https://github.com/React-Avancado/boilerplate/commit/3e43f7d917b79a2875d1eeb1fe0794460e88ae3a#diff-9638e8c5cc5db5647bc4d35b4207a4931d554c6ab492b4e93e9b7b69f8cfdbbc
+- https://github.com/React-Avancado/boilerplate/blob/main/jest.config.js
+- https://styled-components.com/docs/tooling#jest-integration
+
+### Storybook
+- https://storybook.js.org
+- https://storybook.js.org/docs/react/get-started/install
+- https://storybook.js.org/docs/react/writing-stories/decorators#gatsby-focus-wrapper
+- https://storybook.js.org/docs/react/get-started/whats-a-story
+- https://www.npmjs.com/package/eslint-plugin-storybook
+- https://storybook.js.org/docs/react/addons/addon-knowledge-base
+- https://storybook.js.org/docs/react/writing-stories/decorators#context-for-mocking
+- https://storybook.js.org/docs/react/essentials/introduction
+- https://storybook.js.org/docs/react/essentials/controls
+
+### 
+-
+
+### 
+-
+
+### 
+-
