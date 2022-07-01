@@ -16,11 +16,12 @@
   "lint-staged": {
     "src/**/*": [
       "yarn eslint --fix",
-      "yarn test --bail --findRelatedTests"
+      "yarn test --findRelatedTests --bail --passWithNoTests"
     ]
   },
   "dependencies": {
     "next": "12.1.6",
+    "next-pwa": "^5.5.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "styled-components": "^5.3.5"
